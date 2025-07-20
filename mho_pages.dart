@@ -11,7 +11,7 @@ void main() {
 }
 
 /// ==============================
-/// Mock Login Page
+/// Login Page
 /// ==============================
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
