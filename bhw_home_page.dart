@@ -1,5 +1,3 @@
-// ignore_for_file: unused_element, unnecessary_import, unnecessary_to_list_in_spreads, deprecated_member_use
-
 import 'package:flutter/material.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';
@@ -22,7 +20,7 @@ class SitioSelectionPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    
       appBar: AppBar(
         title: const Text('Select Sitio'),
         centerTitle: true,
